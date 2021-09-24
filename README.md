@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lonwang/lonwang/_apis/build/status/lonwang-sh.pipelines-java?branchName=master)](https://dev.azure.com/lonwang/lonwang/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
